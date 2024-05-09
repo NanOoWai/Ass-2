@@ -1,0 +1,65 @@
+.container{
+    background-color: black;
+    border: 1px solid black;
+}
+
+h6,p{
+   text-align: center;
+    align-items: center;
+    color: white;
+    
+}
+
+.all{
+     display: flex;
+     justify-content: center;
+}
+
+.camera{
+    background-color: blue;
+    width: 200px;
+    margin: 50px 40px 50px 40px;
+    border-radius: 10px;  
+   
+}
+
+.headphone{
+    background-color: red;
+    width: 200px;
+    margin: 50px 40px 50px 40px;
+    border-radius: 10px;
+}
+
+.watch{
+    background-color: brown;
+    width: 200px;
+    margin: 50px 40px 50px 40px;
+    border-radius: 10px;
+}
+
+.bluetooth{
+    background-color: green;
+    width: 200px;
+    margin: 50px 40px 50px 40px;
+    border-radius: 10px;
+}
+
+.bag{
+    background-color: orangered;
+    width: 200px;
+    margin: 50px 40px 50px 40px;
+    border-radius: 10px;
+}
+
+.shoe{
+    background-color: orchid;
+    width: 200px;
+    margin: 50px 40px 50px 40px;
+    border-radius: 10px;
+}
+
+img{
+    width: 200px;
+    height: 150px;
+    border-radius: 10px 10px 0px 0px;
+}
